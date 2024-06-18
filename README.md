@@ -3,3 +3,4 @@
 - If you have an idea for a plugin, please reach out.
   
 ![l0cks-acab GitHub stats](https://github-readme-stats.vercel.app/api?username=l0cks-acab&show_icons=true&theme=highcontrast)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l0cks-acab)](https://github.com/anuraghazra/github-readme-stats)
